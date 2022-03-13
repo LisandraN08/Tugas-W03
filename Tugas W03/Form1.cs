@@ -23,7 +23,6 @@ namespace Tugas_W03
         }
         public void sistemKerja()
         {
-            double ukuranFontAwal = 10.8;
             string coba1 = "";
             coba1 = txtBoxInput.Text;
             string[] teksAkhir = coba1.Split(':');
